@@ -1,0 +1,156 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ambient Center Luminous Glow -->
+    <path
+        android:pathData="M54,14 C76,14 94,32 94,54 C94,76 76,94 54,94 C32,94 14,76 14,54 C14,32 32,14 54,14 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:centerX="54"
+                android:centerY="52"
+                android:gradientRadius="42"
+                android:type="radial">
+                <item android:offset="0.0" android:color="#80FFFFFF" />
+                <item android:offset="0.55" android:color="#35BEE4FE" />
+                <item android:offset="1.0" android:color="#00FFFFFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Outer Sculpted M-shaped Arch Crest -->
+    <path
+        android:pathData="M26,38 C26,23 37,17 47,24 C51,27 53,33 54,36 C55,33 57,27 61,24 C71,17 82,23 82,38 C82,59 73,79 54,88 C35,79 26,59 26,38 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="26"
+                android:startY="18"
+                android:endX="82"
+                android:endY="88"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#78B6F8" />
+                <item android:offset="0.4" android:color="#8EAFF5" />
+                <item android:offset="0.75" android:color="#B798F0" />
+                <item android:offset="1.0" android:color="#C6A8F4" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Inner Cavity for Soft 3D Depth -->
+    <path
+        android:pathData="M32,42 C32,32 39,26 46,31 C49,34 52,40 54,42 C56,40 59,34 62,31 C69,26 76,32 76,42 C76,58 69,74 54,82 C39,74 32,58 32,42 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="28"
+                android:endX="54"
+                android:endY="82"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#F4F9FE" />
+                <item android:offset="0.45" android:color="#EAF2FC" />
+                <item android:offset="1.0" android:color="#F2EDFA" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Sculpted Porcelain-White Cradling Hands / Wings -->
+    <path
+        android:pathData="M21,52 C21,68 36,83 54,83 C72,83 87,68 87,52 C87,47 83,47 80,52 C77,65 67,74 54,74 C41,74 31,65 28,52 C25,47 21,47 21,52 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="21"
+                android:startY="48"
+                android:endX="87"
+                android:endY="83"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF" />
+                <item android:offset="0.3" android:color="#F8FBFF" />
+                <item android:offset="0.65" android:color="#DCF4EE" />
+                <item android:offset="1.0" android:color="#EDE7F9" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Lower Curved Seafoam / Mint Ribbon Petal -->
+    <path
+        android:pathData="M25,62 C34,76 43,81 54,81 C65,81 74,76 83,62 C85,59 82,56 79,58 C72,70 64,74 54,74 C44,74 36,70 29,58 C26,56 23,59 25,62 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="25"
+                android:startY="58"
+                android:endX="83"
+                android:endY="81"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#82DFC9" />
+                <item android:offset="0.5" android:color="#8CE5D6" />
+                <item android:offset="1.0" android:color="#B8A7F0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Central Glowing Lotus Seed / Droplet (Emerald mint to cyan to lilac) -->
+    <path
+        android:pathData="M54,37 C48,48 42,58 42,65 C42,71 47,75 54,75 C61,75 66,71 66,65 C66,58 60,48 54,37 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="37"
+                android:endX="54"
+                android:endY="75"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#43E2AC" />
+                <item android:offset="0.35" android:color="#58C4F8" />
+                <item android:offset="0.75" android:color="#9D88F6" />
+                <item android:offset="1.0" android:color="#C192F8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Translucent Lower Petals of the Lotus -->
+    <path
+        android:pathData="M43,62 C43,69 48,74 54,74 C60,74 65,69 65,62 C63,65 59,67 54,67 C49,67 45,65 43,62 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="43"
+                android:startY="62"
+                android:endX="65"
+                android:endY="74"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#A981F7" />
+                <item android:offset="1.0" android:color="#BE92F9" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Inner Radiant Core (Pure White Incandescent Light Source) -->
+    <path
+        android:pathData="M54,43 C50.5,50 46.5,57 46.5,63 C46.5,68 49.5,71 54,71 C58.5,71 61.5,68 61.5,63 C61.5,57 57.5,50 54,43 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="43"
+                android:endX="54"
+                android:endY="71"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF" />
+                <item android:offset="0.6" android:color="#FFFFFF" />
+                <item android:offset="0.85" android:color="#F0FCF8" />
+                <item android:offset="1.0" android:color="#E0D7FC" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 4-Point Diamond Starburst Flare at Center -->
+    <path
+        android:pathData="M54,44 L55.2,54 L54,66 L52.8,54 Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M45,54.5 L54,53.5 L63,54.5 L54,55.5 Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M54,52 C55.6,52 57,53.4 57,55 C57,56.6 55.6,58 54,58 C52.4,58 51,56.6 51,55 C51,53.4 52.4,52 54,52 Z"
+        android:fillColor="#FFFFFF" />
+</vector>

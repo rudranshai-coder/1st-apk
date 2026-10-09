@@ -1,0 +1,6 @@
+{
+  "name": "MindNest",
+  "description": "MindNest is a premium AI study assistant specifically designed for BCA students in India, featuring Nesty AI for programming, DPA, OS, mathematics, and exam prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
